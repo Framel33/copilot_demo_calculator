@@ -1,5 +1,5 @@
 title,body,labels,milestone
-"🔥 App crashes when dividing by zero","User reports: 'Calculator exploded when I tried 10/0'. Probably should handle that.",🔥critical|🐛bug,v0.1-survival
+"🔥 App crashes when dividing by zero","User reports: 'Calculator exploded when I tried 10/0'. Probably should handle that.",🔥critical,v0.1-survival
 "Missing error handling in file operations","No try-catch blocks. Bad style programming detected.",🐛bug,v0.1-survival
 "Add README.md","Nobody knows what this project does.",📚docs,v0.2-documentation
 "Document calculate() function","Magic happens here. Need to explain the magic.",📚docs,v0.2-documentation
